@@ -1,0 +1,4 @@
+public class vkHello{
+  public static void main(String arg[]) {
+    System.out.println("Hello World") 
+  }
